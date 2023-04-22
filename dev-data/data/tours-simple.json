@@ -135,5 +135,12 @@
     "startDates": ["2021-12-16,10:00", "2022-01-16,10:00", "2022-12-12,10:00"]
   },
   { "id": 9, "name": "National Park", "duration": 5, "difficulty": "easy" },
-  { "id": 10, "name": "Musium", "duration": 20, "difficulty": "hard" }
+  { "id": 10, "name": "Musium", "duration": 20, "difficulty": "hard" },
+  {
+    "id": 11,
+    "name": "National Park",
+    "price": 20,
+    "duration": 5,
+    "difficulty": "easy"
+  }
 ]
