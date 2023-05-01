@@ -1,3 +1,5 @@
+mongosh "mongodb+srv://cluster0.m1qwcb5.mongodb.net/myFirstDatabase" --apiVersion 1 --username GeorgeHughes
+
 1st Start
 //////////////////////////////////////
 const fs = require('fs');
